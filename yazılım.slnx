@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="yazılım/yazılım.vcxproj" Id="34123adf-b24f-427c-b328-8d584a6cc1b1" />
+</Solution>
